@@ -1,0 +1,242 @@
+[
+  {
+    "name": "bitcore",
+    "speed": {
+      "ccminer_pruvot": 15.4,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "blake2s",
+    "speed": {
+      "ccminer_pruvot": 3.4,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "blakecoin",
+    "speed": {
+      "ccminer_pruvot": 4.1,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "c11",
+    "speed": {
+      "ccminer_pruvot": 12.5,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "decred",
+    "speed": {
+      "ccminer_pruvot": 2.4,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "equihash",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 0,
+      "ewbf": 0.41
+    }
+  },
+  {
+    "name": "groestl",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 34,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "hmq1725",
+    "speed": {
+      "ccminer_pruvot": 4.3,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "lbry",
+    "speed": {
+      "ccminer_pruvot": 262,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "lyra2v2",
+    "speed": {
+      "ccminer_pruvot": 33,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "lyra2z",
+    "speed": {
+      "ccminer_pruvot": 1.4,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "m7m",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "myr-gr",
+    "speed": {
+      "ccminer_pruvot": 61,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "neoscrypt",
+    "speed": {
+      "ccminer_pruvot": 0.87,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "nist5",
+    "speed": {
+      "ccminer_pruvot": 40,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "quark",
+    "speed": {
+      "ccminer_pruvot": 22,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "qubit",
+    "speed": {
+      "ccminer_pruvot": 18,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "scrypt",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "sha256",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "sib",
+    "speed": {
+      "ccminer_pruvot": 8.2,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "skein",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 484,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "timetravel",
+    "speed": {
+      "ccminer_pruvot": 24,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "veltor",
+    "speed": {
+      "ccminer_pruvot": 20,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "x11",
+    "speed": {
+      "ccminer_pruvot": 12.5,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "x11evo",
+    "speed": {
+      "ccminer_pruvot": 12.1,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "x13",
+    "speed": {
+      "ccminer_pruvot": 9.8,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "x15",
+    "speed": {
+      "ccminer_pruvot": 8.9,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "x17",
+    "speed": {
+      "ccminer_pruvot": 8.8,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "xevan",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  },
+  {
+    "name": "yescrypt",
+    "speed": {
+      "ccminer_pruvot": 0,
+      "ccminer_sp": 0,
+      "ewbf": 0
+    }
+  }
+]

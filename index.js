@@ -186,7 +186,7 @@ function buildRunCommand (algo) {
 
 function getBestAlgo(currentAlgoName) {
   const rp = require('request-promise');
-  const Promise = require('bluebird');
+  //const Promise = require('bluebird');
   const fs = Promise.promisifyAll(require('fs'));
 
   //fs.readFileAsync('status.json')
@@ -221,7 +221,7 @@ function getBestAlgo(currentAlgoName) {
     // console.log(mergedArray);
     // let csv = json2csv({ data: mergedArray });
     // fs.writeFile('mergedarray.csv', csv);
-    algos = sortByScore(mergedArray, config.sortBy);
+    let algos = sortByScore(mergedArray, config.sortBy);
 
     //console.log(mergedArray);
 

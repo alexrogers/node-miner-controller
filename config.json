@@ -1,0 +1,10 @@
+{
+  "user": "18s12dKDssLTQrVMvMe2jjKcMnF5NVZRXr",
+  "pass": "c=BTC,stats",
+  "pool": "mine.zpool.ca",
+  "diffToSwitch": 0.05,
+  "sortBy": "profit_estimate_last24h",
+  "checkTime": 5 * 60 * 1000,
+  "retryTime": 0.5 * 30 * 1000,
+  "binDir": "C:/\NiceHashMiner_v1.7.5.12/\minerbins"
+}
